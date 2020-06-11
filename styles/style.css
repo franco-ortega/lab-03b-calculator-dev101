@@ -1,0 +1,23 @@
+
+body {
+    background-color: blueviolet;
+}
+
+header {
+    background-color: blue;
+    padding: 1px;
+    margin: 5px;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+main {
+    background-color: purple;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}

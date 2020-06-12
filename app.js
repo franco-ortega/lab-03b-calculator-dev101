@@ -27,13 +27,13 @@ mySubButton.addEventListener('click', () => {
 const myMulButton = document.getElementById('mulButton');
 
 myMulButton.addEventListener('click', () => {
-const multiplyAnswer = multiplyNumbers(Number(myInputOne.value), Number(myInputTwo.value));
-calcAnswer.textContent = multiplyAnswer;
+    const multiplyAnswer = multiplyNumbers(Number(myInputOne.value), Number(myInputTwo.value));
+    calcAnswer.textContent = multiplyAnswer;
 });
 
 const myDivButton = document.getElementById('divButton');
 
 myDivButton.addEventListener('click', () => {
-const divideAnswer = divideNumbers(Number(myInputOne.value), Number(myInputTwo.value));
-calcAnswer.textContent = divideAnswer;
+    const divideAnswer = divideNumbers(Number(myInputOne.value), Number(myInputTwo.value));
+    calcAnswer.textContent = divideAnswer;
 });

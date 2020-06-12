@@ -1,4 +1,4 @@
-import { addNumbers, subtractNumbers, multiplyNumbers, divideNumbers } from '../mathutils.js' // IMPORT MODULES under test here:
+import { addNumbers, subtractNumbers, multiplyNumbers, divideNumbers } from '../mathutils.js'; // IMPORT MODULES under test here:
 // import example from '../src/mathutils.js';
 
 const test = QUnit.test;

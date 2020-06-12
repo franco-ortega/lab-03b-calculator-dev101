@@ -1,4 +1,4 @@
-import { addNumbers, subtractNumbers, multiplyNumbers, divideNumbers } from './mathutils.js'
+import { addNumbers, subtractNumbers, multiplyNumbers, divideNumbers } from './mathutils.js';
 
 const myCalcAnswer = document.getElementById('calcAnswer');
 
